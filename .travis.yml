@@ -1,6 +1,6 @@
 language: C
 os: linux
 
-install: make de
+install: make dev
 
 
