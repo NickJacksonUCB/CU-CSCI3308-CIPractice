@@ -1,6 +1,7 @@
 language: C
 os: linux
+script: make && make test
 
-install: make dep
+
 
 
